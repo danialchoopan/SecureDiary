@@ -1,5 +1,13 @@
 # Secure Diary Danial 🔒📔
 
+
+### Screenshot اسکرین شات
+<img src="screenshot/1.jpg" height="500">
+<br>
+<img src="screenshot/2.jpg" height="500">
+<br>
+<img src="screenshot/3.jpg" height="500">
+
 A secure, modern Android diary application built with Jetpack Compose, focused on privacy and ease of use.
 ### Features
 - **Biometric Security**: Protect your thoughts with fingerprint or face unlock.
